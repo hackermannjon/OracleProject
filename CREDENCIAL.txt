@@ -1,7 +1,4 @@
-WORKSPACE : TRABALHO_BD_UNB
+Credencial para utilizar o site:
 LOGIN : hyperlobe2@gmail.com
 SENHA: 35636452
-SISTEMA UTILIZADO: https://apex.oracle.com/
-
-
 site link direto: https://apex.oracle.com/pls/apex/r/trabalho_bd_unb/sistema-de-controle-de-consumo-de-produtos-por-s%C3%B3cios-de-um-clube/login?session=124882596122521
